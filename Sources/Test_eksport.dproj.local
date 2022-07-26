@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022-07-26 10:01:08.000.644,=C:\Users\TPservice\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022-07-26 10:10:57.000.946,C:\Users\TPservice\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\DEV\Test_eksport\Sources\Main_form.pas</Transaction>
+    <Transaction>2022-07-26 10:10:57.000.946,C:\Users\TPservice\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\DEV\Test_eksport\Sources\Main_form.dfm</Transaction>
+    <Transaction>2022-07-26 10:11:06.000.889,C:\Users\TPservice\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\DEV\Test_eksport\Sources\Test_eksport.dproj</Transaction>
+    <Transaction>2022-07-26 10:16:33.225,=C:\DEV\Test_eksport\Sources\Unit1.pas</Transaction>
+    <Transaction>2022-07-26 10:16:51.395,=C:\DEV\Test_eksport\Sources\Unit1.pas</Transaction>
+    <Transaction>2022-07-26 10:17:14.864,C:\DEV\Test_eksport\Sources\DM.pas=C:\DEV\Test_eksport\Sources\Unit1.pas</Transaction>
+    <Transaction>2022-07-26 10:17:14.864,C:\DEV\Test_eksport\Sources\DM.dfm=C:\DEV\Test_eksport\Sources\Unit1.dfm</Transaction>
+    <Transaction>2022-07-26 10:21:42.945,=C:\DEV\Test_eksport\Sources\Unit1.pas</Transaction>
+    <Transaction>2022-07-26 10:21:55.305,C:\DEV\Test_eksport\Sources\ConnectionParams.pas=C:\DEV\Test_eksport\Sources\Unit1.pas</Transaction>
+    <Transaction>2022-07-26 10:22:01.274,=C:\DEV\Test_eksport\Sources\Unit1.pas</Transaction>
+    <Transaction>2022-07-26 10:22:27.789,C:\DEV\Test_eksport\Sources\Logon_form.pas=C:\DEV\Test_eksport\Sources\Unit1.pas</Transaction>
+    <Transaction>2022-07-26 10:22:27.789,C:\DEV\Test_eksport\Sources\Logon_form.dfm=C:\DEV\Test_eksport\Sources\Unit1.dfm</Transaction>
+    <Transaction>2022-07-26 10:25:41.931,C:\DEV\Test_eksport\Sources\UConnectionParams.pas=C:\DEV\Test_eksport\Sources\ConnectionParams.pas</Transaction>
+    <Transaction>2022-07-26 10:28:54.152,C:\DEV\Test_eksport\Sources\DM_Main.dfm=C:\DEV\Test_eksport\Sources\DM.dfm</Transaction>
+    <Transaction>2022-07-26 10:28:54.152,C:\DEV\Test_eksport\Sources\DM_Main.pas=C:\DEV\Test_eksport\Sources\DM.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Main_form.pas"/>
+    <File Path="Main_form.dfm"/>
+    <File Path="DM_Main.pas"/>
+    <File Path="DM_Main.dfm"/>
+    <File Path="UConnectionParams.pas"/>
+    <File Path="Logon_form.pas"/>
+    <File Path="Logon_form.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
